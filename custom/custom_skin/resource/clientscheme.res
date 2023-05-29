@@ -1053,7 +1053,7 @@ Scheme
 			"1"
 			 {
 			"name"  "Counter-Strike" // Cstrike.ttf
-			"tall"  "28"
+			"tall"  "18"
 			"weight" "0"
 			"additive" "1"
 			"antialias" "1"
@@ -1065,7 +1065,7 @@ Scheme
 			"1"
 			 {
 			"name"  "Counter-Strike" // Cstrike.ttf
-			"tall"  "20"
+			"tall"  "12"
 			"weight" "0"
 			"additive" "0"
 			"antialias" "1"
@@ -1103,17 +1103,18 @@ Scheme
 			"1"
 			{
 				"name"  "Counter-Strike" // Cstrike.ttf
-				"tall"  "28"
+				"tall"  "18"
 				"weight" "0"
-				"additive" "1"
+				"additive" "0"
 				"antialias" "1"
+				"TextColor" "255 255 255 255"
 			}
 			"2"
 			{
 				"name"  "Verdana"
-				"tall"  "28"
+				"tall"  "18"
 				"weight" "0"
-				"additive" "1"
+				"additive" "0"
 				"antialias" "1"
 			}
 		}

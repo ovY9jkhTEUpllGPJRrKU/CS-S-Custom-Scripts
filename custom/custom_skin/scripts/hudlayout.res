@@ -6,8 +6,8 @@
 		"xpos"	"8"
 		"ypos"	"448"
 		"zpos"	"0"
- 		"wide"	"102"
-		"tall"  "25"
+ 		"wide"	"70"
+		"tall"  "20"
 		"visible" "1"
 		"enabled" "1"
 
@@ -15,20 +15,20 @@
 		"bgcolor_override"		"0 0 0 200"
 		
 		"icon_xpos"	"8"
-		"icon_ypos"	"-4"
-		"digit_xpos" "30"
-		"digit_ypos" "-4"
+		"icon_ypos"	"0"
+		"digit_xpos" "20"
+		"digit_ypos" "0"
 		"LowHealthColor"	"HudIcon_Red"
 	}
 	
 	HudArmor
 	{
 		"fieldName"		"HudArmor"
-		"xpos"	"122"
+		"xpos"	"100"
 		"ypos"	"448"
 		"zpos"	"1"
-		"wide"	"75"
-		"tall"  "25"
+		"wide"	"50"
+		"tall"  "20"
 		"visible" "1"
 		"enabled" "1"
 
@@ -36,19 +36,19 @@
  		"bgcolor_override"		"0 0 0 200"
 		
 		"icon_xpos"	"8"
-		"icon_ypos"	"-4"
-		"digit_xpos" "30"
-		"digit_ypos" "-4"
+		"icon_ypos"	"0"
+		"digit_xpos" "20"
+		"digit_ypos" "0"
 	}
 	
 	HudRoundTimer
 	{
 		"fieldName" "HudRoundTimer"
-		"xpos"	"c-48"
+		"xpos"	"400"
 		"ypos"	"448"
 		"zpos"	"1"
-		"wide"	"98"
-		"tall"  "25"
+		"wide"	"70"
+		"tall"  "20"
 		"visible" "1"
 		"enabled" "1"
 		
@@ -58,60 +58,61 @@
 		"FlashColor" "HudIcon_Red"		
 
 		"icon_xpos"		"8"
-		"icon_ypos"		"-4"
-		"digit_xpos"	"30"
-		"digit_ypos"	"-4"
+		"icon_ypos"		"0"
+		"digit_xpos"	"25"
+		"digit_ypos"	"0"
 	}
 
 	HudAmmo
 	{
 		"fieldName" "HudAmmo"
-		"xpos"	"380"
-		"ypos"	"280"
+		"xpos"	"400"
+		"ypos"	"250"
 		"zpos"	"1"
-		"wide"	"88"
+		"wide"	"66"
 		"tall"  "18"
 		"visible" "1"
 		"enabled" "1"
 
 		"PaintBackgroundType"	"2"
- 		"bgcolor_override"		"0 0 0 0"
+ 		"bgcolor_override"		"0 0 0 70"
+ 		"fgcolor_override"		"0 255 255 255"
 
-		"digit_xpos" "-10"
-		"digit_ypos" "-8"
-		"digit2_xpos" "35"
-		"digit2_ypos" "-8"
+		"digit_xpos" "2"
+		"digit_ypos" "0"
+		"digit2_xpos" "33"
+		"digit2_ypos" "0"
 	
-		"bar_xpos"		"30"
-		"bar_ypos"		"1"
-		"bar_height"	"16"
+		"bar_xpos"		"28"
+		"bar_ypos"		"2"
+		"bar_height"	"8"
 		"bar_width"		"2"
 
-		"icon_xpos"		"110"
-		"icon_ypos"		"2"
+		"icon_xpos"		"90"
+		"icon_ypos"		"0"
 	}
 
 	HudAccount
 	{
 		"fieldName" "HudAccount"
-		"xpos"	"r117"
-		"ypos"	"428"
-		"wide"	"108"
-		"tall"  "45"
+		"xpos"	"770"
+		"ypos"	"418"
+		"wide"	"60"
+		"tall"  "50"
 		"visible" "1"
 		"enabled" "1"
 
 		"PaintBackgroundType"	"2"
 		"bgcolor_override"		"0 0 0 200"
 
-		"icon_xpos"	"9"
-		"icon_ypos"	"16"
-		"digit_xpos" "100"
-		"digit_ypos" "16"
-		"icon2_xpos" "9"
-		"icon2_ypos" "-4"
-		"digit2_xpos" "100"
-		"digit2_ypos" "-4"
+		"icon_xpos"	"5"
+		"icon_ypos"	"30"
+		"digit_xpos" "55"
+		"digit_ypos" "30"
+		"icon2_xpos" "5"
+		"icon2_ypos" "5"
+		"digit2_xpos" "55"
+		"digit2_ypos" "5"
 	}
 
 	overview

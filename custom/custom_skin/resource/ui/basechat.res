@@ -8,10 +8,10 @@
 		"enabled" 		"1"
 		"xpos"			"5"	[$WIN32]
 		"xpos"			"42"	[$X360]
-		"ypos"			"299"
-		"ypos_hidef"		"245"
+		"ypos"			"270"
+		"ypos_hidef"		"270"
 		"wide"	 		"360"
-		"tall"	 		"115"
+		"tall"	 		"150"
 		"PaintBackgroundType"	"2"
 	}
 
@@ -34,7 +34,7 @@
 		"ControlName"		"Button"
 		"fieldName"		"ChatFiltersButton"
 		"xpos"			"310"
-		"ypos"			"100"
+		"ypos"			"135"
 		"wide"			"45"
 		"tall"			"10"
 		"autoResize"		"1"
