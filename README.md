@@ -3,6 +3,8 @@
     C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\
     ```
 
+<b><u>NOTE</u></b>: I modified the sounds of <u>metal breaking/wood breaking and footsteps (disabled? not sure as I need to make changes on that)</u> since I have hitmarkers enabled. You can just remove the modification for those by deleting `game_sounds_ambient_generic.txt`, `game_sounds_phyics.txt`, `game_sounds_weapons.txt`, and `game_sounds_world.txt`. 
+
 <ul>
     <li>Changes:</li>
         <ul>
@@ -25,6 +27,7 @@
         </ul>
     <li>Game sounds for guns lowered to 0.1</li>
     </ul>
+<br>
 <br>
 
 These are all a compilation of skins that are convenient to use
